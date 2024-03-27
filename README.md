@@ -3,6 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apornarakshit&label=Profile%20views&color=0e75b6&style=flat" alt="apornarakshit" /> </p>
 
+- 🔭 I’m currently working on **Summer Camp**
+
+- 🌱 I’m currently learning **Modern JavaScript ES6**
+
+- 👨‍💻 All of my projects are available at [https://github.com/ApornaRakshit?tab=repositories](https://github.com/ApornaRakshit?tab=repositories)
+
+- 💬 Ask me about **HTML, CSS, Tailwind CSS, JS**
+
+- 📫 How to reach me **rakshit.aporna@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
