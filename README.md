@@ -10,6 +10,7 @@ As a full-stack web developer with a strong focus on front-end development, I th
 - 🌱 I’m currently learning **Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ApornaRakshit?tab=repositories](https://github.com/ApornaRakshit?tab=repositories)
+- <h2>Skills: JS / Node JS / REACT / HTML / CSS / C / C++ / Python</h2>
 - 📫 How to reach me **rakshit.aporna@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
