@@ -22,5 +22,3 @@ Skills: JS / Node JS / REACT / HTML / CSS / C / C++
 <p align="left">
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apornarakshit&show_icons=true&locale=en&layout=compact" alt="apornarakshit" /></p>
-
-/*<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apornarakshit&show_icons=true&locale=en" alt="apornarakshit" /></p>*/
