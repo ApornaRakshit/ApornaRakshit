@@ -19,7 +19,6 @@ Skills: JS / Node JS / REACT / HTML / CSS / C / C++
 - 💬 Ask me about Web Development, C, C++.
 - 📫 How to reach me **rakshit.aporna@gmail.com**
  
-<h3 align="left">Connect with me: </h3>
 <p align="left">
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apornarakshit&show_icons=true&locale=en&layout=compact" alt="apornarakshit" /></p>
