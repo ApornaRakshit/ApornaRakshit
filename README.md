@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apornarakshit&label=Profile%20views&color=0e75b6&style=flat" alt="apornarakshit" /> </p>
 - 📫 How to reach me **rakshit.aporna@gmail.com**
-- I am a passionate Full Stack Web developer and have programming knowledge
+- I'm a CSE student and a passionate Full Stack Web developer and have programming knowledge
 
 As a full-stack web developer with a strong focus on front-end development, I thrive on creating dynamic and user-friendly web experiences. My expertise spans HTML, CSS, JavaScript, React.js, Node.js, and Tailwind CSS, allowing me to build responsive and visually appealing websites. I also have a solid understanding of back-end technologies, particularly with MongoDB, and programming languages like C, C++ in data structure and algorithm also.
 
