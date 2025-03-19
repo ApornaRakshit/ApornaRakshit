@@ -14,16 +14,16 @@
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 📊 Most Used Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,python,django,tailwind,js,html,css,git,github,vscode,figma,firebase" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApornaRakshit&langs_count=8&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📊 Most Used Languages
+## 🛠 Tech Stack & Tools
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApornaRakshit&langs_count=8&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,python,django,tailwind,js,html,css,git,github,vscode,figma,firebase" />
 </p>
 
 ---
