@@ -47,5 +47,4 @@
 
 ---
 
-🔥 **Keep Learning & Building!** 🚀  
-⭐ **Don't forget to star my repositories!** 🌟  
+⭐ **Keep Learning & Building!** 🌟  
