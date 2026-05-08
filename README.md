@@ -76,6 +76,15 @@
   <img src="https://skillicons.dev/icons?i=gmail" height="50" />
 </a>
 
+<a href="https://leetcode.com/u/Aporna16/" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="50" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/amal_rakshit77" target="_blank">
+  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="50" />
+</a>
+
 </p>
+
 
 
