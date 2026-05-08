@@ -65,26 +65,35 @@
 <p align="center">
 
 <a href="https://github.com/ApornaRakshit" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="50" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="45" />
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/apornarakshit/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="45" />
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:rakshit.aporna@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="45" />
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/Aporna16/" target="_blank">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="50" />
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" />
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.hackerrank.com/profile/amal_rakshit77" target="_blank">
-  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="50" />
+  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="45" />
 </a>
 
 </p>
+
 
 
 
