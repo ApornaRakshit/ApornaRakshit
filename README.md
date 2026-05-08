@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=APORNA%20RAKSHIT&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Problem%20Solver%20•%20Tech%20Learner&descAlignY=58&color=gradient&customColorList=14,18,19,24,30" />
 
-<img src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif" alt="Banner" width="100%" />
+<img src="readme.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🎓 CSE Undergraduate Student
