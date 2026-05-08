@@ -1,8 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=APORNA%20RAKSHIT&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Problem%20Solver%20•%20Tech%20Learner&descAlignY=58&color=gradient&customColorList=14,18,19,24,30" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=APORNA%20RAKSHIT&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Problem%20Solver%20•%20Tech%20Learner&descAlignY=58&color=gradient&customColorList=14,18,19,24,30" /> -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=APORNA%20RAKSHIT&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Problem%20Solver%20•%20Tech%20Learner&descAlignY=58&descSize=18&color=gradient&customColorList=0,0,0,1,2" />
 
 <hr>
 <div>
-<img align="right" height="300" width="300"src="readme.gif" alt="Banner" />
+<img align="right" height="250" width="250"src="readme.gif" alt="Banner" />
 </div>
 ## 📌 About Me
 
@@ -75,8 +77,4 @@
 
 </p>
 
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
 
