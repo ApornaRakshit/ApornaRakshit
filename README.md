@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=APORNA%20RAKSHIT&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Problem%20Solver%20•%20Tech%20Learner&descAlignY=58&color=gradient&customColorList=14,18,19,24,30" />
 
-<img src="readme.gif" alt="Banner" width="100%" />
+<hr>
+<img align="right" height="250" width="365"src="readme.gif" alt="Banner" />
 
 ## 📌 About Me
 - 🎓 CSE Undergraduate Student
@@ -9,7 +10,7 @@
 - 🚀 Building impactful tech projects
 - 🧠 Passionate about Problem Solving
 - ⚡ Love exploring modern technologies
-
+</hr>
 
 ## 🧠 My Focus Areas
 - Web Development | Tech Learn | Open Source Contribution
