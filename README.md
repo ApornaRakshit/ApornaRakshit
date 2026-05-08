@@ -1,9 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=APORNA%20RAKSHIT&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Problem%20Solver%20•%20Tech%20Learner&descAlignY=58&color=gradient&customColorList=14,18,19,24,30" />
 
 <hr>
-<img align="right" height="250" width="365"src="readme.gif" alt="Banner" />
 
 ## 📌 About Me
+<img align="right" height="250" width="365"src="readme.gif" alt="Banner" />
+
 - 🎓 CSE Undergraduate Student
 - 💻 Full Stack Developer (MERN)
 - 🌱 Currently learning **Django & Python**
