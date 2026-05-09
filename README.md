@@ -1,27 +1,33 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=APORNA%20RAKSHIT&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Problem%20Solver%20•%20Tech%20Learner&descAlignY=58&color=gradient&customColorList=14,18,19,24,30" /> -->
+<!-- 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=APORNA%20RAKSHIT&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20MERN%20Stack%20•%20Software%20Developer&descAlignY=58&descSize=18&color=gradient&customColorList=0,1,4,12,20" /> -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=APORNA%20RAKSHIT&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20MERN%20Stack%20•%20Software%20Developer&descAlignY=58&descSize=18&color=gradient&customColorList=0,1,4,12,20" />
+<img src="banner.png" /> 
+<h3 align="center"> Full Stack Developer 👋 | MERN Stack Developer 🚀 | Skilled in JavaScript, React.js, Next.js, Node.js, MongoDB & Django 💻 | Passionate About Building Scalable Web Applications 🌍 | Problem Solver & Tech Enthusiast 💡 </h3>
 
 
 <hr>
 <div>
 <img align="right" height="250" width="250"src="readme.gif" alt="Banner" />
 </div>
+
 ## 📌 About Me
 
-- 🎓 CSE Undergraduate Student
+- 🎓 CSE Graduate Student
 - 💻 Full Stack Developer (MERN)
 - 🌱 Currently learning **Django & Python**
 - 🚀 Building impactful tech projects
-- 🧠 Passionate about Problem Solving
+- 💡 Spend free time solving programming and algorithmic problems
 - ⚡ Love exploring modern technologies
 </hr>
 
 ## 🧠 My Focus Areas
+
 - Web Development | Tech Learn | Open Source Contribution
 
 
-## 📊 GitHub Stats 
+## 📊 GitHub Stats
+
 <p align="center">
   <a href="https://github.com/ApornaRakshit">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ApornaRakshit&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="ApornaRakshit's GitHub Stats" />
@@ -65,27 +71,27 @@
 <div align="center">
 
 <a href="https://github.com/ApornaRakshit" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="55" />
+  <img src="https://skillicons.dev/icons?i=github" width="50" />
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/apornarakshit/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/Aporna16/" target="_blank">
-  <img src="https://cdn.simpleicons.org/leetcode" width="55" />
+  <img src="https://cdn.simpleicons.org/leetcode" width="50" />
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.hackerrank.com/profile/amal_rakshit77" target="_blank">
-  <img src="https://cdn.simpleicons.org/hackerrank" width="55" />
+  <img src="https://cdn.simpleicons.org/hackerrank" width="50" />
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="mailto:rakshit.aporna@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="55" />
+  <img src="https://skillicons.dev/icons?i=gmail" width="50" />
 </a>
 
 </div>
