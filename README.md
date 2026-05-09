@@ -36,28 +36,6 @@
 </p>
 
 
-<!-- ## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" 
-src="https://github-readme-stats.vercel.app/api?username=ApornaRakshit&show_icons=true&theme=transparent&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700&bg_color=00000000&hide_border=false&border_radius=15" />
-
-<img width="49%" 
-src="https://streak-stats.demolab.com?user=ApornaRakshit&theme=black-ice&hide_border=false&border_radius=15&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA&sideNums=FFFFFF&stroke=FFD700" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="55%" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApornaRakshit&layout=compact&theme=transparent&title_color=FFD700&text_color=FFFFFF&border_color=FFD700&bg_color=00000000&hide_border=false&border_radius=15" />
-
-</div> -->
-
-
 ## 🛠️ Languages | Framework | Tools
 
 <p align="center">
