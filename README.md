@@ -30,10 +30,10 @@
 
 <p align="center">
   <a href="https://github.com/ApornaRakshit">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ApornaRakshit&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="ApornaRakshit's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ApornaRakshit&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="ApornaRakshit's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=ApornaRakshit&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="ApornaRakshit's GitHub Streak" width="49%" />
-</p> 
+  <img src="https://streak-stats.demolab.com/?user=ApornaRakshit&theme=dark&hide_border=true&cache_seconds=86400" alt="ApornaRakshit's GitHub Streak" width="49%" />
+</p>
 
 
 ## 🛠️ Languages | Framework | Tools
