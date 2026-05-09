@@ -73,22 +73,22 @@
 <a href="https://github.com/ApornaRakshit" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" width="50" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp
 
 <a href="https://www.linkedin.com/in/apornarakshit/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp
 
 <a href="https://leetcode.com/u/Aporna16/" target="_blank">
   <img src="https://cdn.simpleicons.org/leetcode" width="50" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp
 
 <a href="https://www.hackerrank.com/profile/amal_rakshit77" target="_blank">
   <img src="https://cdn.simpleicons.org/hackerrank" width="50" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp
 
 <a href="mailto:rakshit.aporna@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="50" />
