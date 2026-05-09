@@ -43,8 +43,9 @@
     src="https://github-readme-stats.vercel.app/api?username=ApornaRakshit&show_icons=true&theme=transparent&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700&bg_color=00000000&border_radius=12" />
   </a>
 
+  <div>
   <img src="https://streak-stats.demolab.com/?user=ApornaRakshit&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="ApornaRakshit's GitHub Streak" width="49%" />
-
+  </div>
 </p>
 
 
