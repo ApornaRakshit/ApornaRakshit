@@ -26,17 +26,17 @@
 - Web Development | Tech Learn | Open Source Contribution
 
 
-<!-- ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/ApornaRakshit">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ApornaRakshit&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="ApornaRakshit's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=ApornaRakshit&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="ApornaRakshit's GitHub Streak" width="49%" />
-</p> -->
+</p>
 
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
 
@@ -55,7 +55,7 @@ src="https://streak-stats.demolab.com?user=ApornaRakshit&theme=black-ice&hide_bo
 <img width="55%" 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApornaRakshit&layout=compact&theme=transparent&title_color=FFD700&text_color=FFFFFF&border_color=FFD700&bg_color=00000000&hide_border=false&border_radius=15" />
 
-</div>
+</div> -->
 
 
 ## 🛠️ Languages | Framework | Tools
