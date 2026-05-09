@@ -35,12 +35,17 @@
   <img src="https://streak-stats.demolab.com/?user=ApornaRakshit&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="ApornaRakshit's GitHub Streak" width="49%" />
 </p> -->
 
+
 ## 📊 GitHub Stats
 
-<p align="center"> 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ApornaRakshit&show_icons=true&theme=transparent&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700&bg_color=00000000&border_radius=12" /> 
+<p align="center">
 
-<img width="49%" src="https://streak-stats.demolab.com?user=ApornaRakshit&theme=transparent&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA&sideNums=FFFFFF&stroke=FFD700&border=FFD700" /> 
+<img width="49%" 
+src="https://github-readme-stats.vercel.app/api?username=ApornaRakshit&show_icons=true&theme=transparent&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700&bg_color=00000000&border_radius=12&include_all_commits=true&count_private=true" />
+
+<img width="49%" 
+src="https://streak-stats.demolab.com?user=ApornaRakshit&theme=transparent&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA&sideNums=FFFFFF&stroke=FFD700&border=FFD700" />
+
 </p>
 
 
